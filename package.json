@@ -1,0 +1,17 @@
+{
+  "name": "12chai-backend",
+  "version": "1.0.0",
+  "description": "a backend from lecture 7 from backend chai aur backend",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "shubham sahu",
+  "license": "ISC"
+}
